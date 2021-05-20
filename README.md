@@ -13,4 +13,8 @@ The main advantage of this browser is :
 * It doesn't save any data<br>
 
 So it is completely safe to use.<br>
-The module used in this project is **[PyQt5](https://pypi.org/project/PyQt5/)**
+The module used in this project is **[PyQt5](https://pypi.org/project/PyQt5/)**<br>
+
+**Sample Output:**
+
+![Sample Output](/Demo.png)
